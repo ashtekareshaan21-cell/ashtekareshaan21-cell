@@ -55,14 +55,7 @@ An offline-first disaster communication concept designed around **decentralized 
 **Focus:**
 `Disaster Response` `Mesh Networking` `Offline-First` `Risk Scoring` `Location`
 
----
 
-### 🔎 CrypsisX / Agent47
-
-A multimodal verification and geolocation system exploring **OCR, evidence fusion and image-based analysis**.
-
-**Focus:**
-`OCR` `FastAPI` `Computer Vision` `Evidence Fusion` `Geolocation`
 
 ---
 
