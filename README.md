@@ -1,19 +1,195 @@
-<h1 align="center">Hi 👋, I'm Ashtekar Eshaan</h1>
-<h3 align="center">Web Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashtekareshaan21-cell&label=Profile%20views&color=0e75b6&style=flat" alt="ashtekareshaan21-cell" /> </p>
+# Hi 👋, I'm Ashtekar Eshaan
 
-- 🔭 I’m currently working on [FoodOPS](https://final-food-ops.vercel.app/)
+### Computer Engineering Student • Web Developer • Problem Solver
 
-- 🌱 I’m currently learning **Location based algorithms**
+Building practical software around **web development, location-based systems, disaster communication, and real-world problem solving.**
 
-- 📫 How to reach me **ashtekareshaan21@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eshaan ashtekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshaan ashtekar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashtekar-eshaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashtekar-eshaan" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/ashtekareshaan21-cell">
+    <img src="https://img.shields.io/github/followers/ashtekareshaan21-cell?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/ashtekareshaan21-cell?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ashtekareshaan21-cell?style=for-the-badge&logo=github&label=Stars" />
+  </a>
+  <a href="mailto:ashtekareshaan21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-informational?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=ashtekareshaan21-cell&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+* 🔭 Currently working on **[FoodOPS](https://final-food-ops.vercel.app/)**
+* 🌱 Currently learning **Location-Based Algorithms & DSA**
+* 🧠 Interested in **Web Development, Algorithms, Maps & Real-World Applications**
+* 🛠️ Building projects that combine **software + problem solving**
+* 🎓 Computer Engineering student at **PCCOE**
+* 📫 Reach me at **[ashtekareshaan21@gmail.com](mailto:ashtekareshaan21@gmail.com)**
+
+---
+
+# 🚀 Featured Projects
+
+### 🍱 FoodOPS — Surplus Food Management Platform
+
+A platform designed to connect **food donors, NGOs and volunteers** to improve the management and distribution of surplus food.
+
+**Focus:**
+`Food Redistribution` `NGO Management` `Maps` `Location Services` `Web Development`
+
+🔗 **Live Project:** [final-food-ops.vercel.app](https://final-food-ops.vercel.app/)
+
+---
+
+### 🛡️ Aarakshak — Decentralized Disaster Communication Hub
+
+An offline-first disaster communication concept designed around **decentralized communication, local intelligence and store-and-forward networking**.
+
+**Focus:**
+`Disaster Response` `Mesh Networking` `Offline-First` `Risk Scoring` `Location`
+
+---
+
+### 🔎 CrypsisX / Agent47
+
+A multimodal verification and geolocation system exploring **OCR, evidence fusion and image-based analysis**.
+
+**Focus:**
+`OCR` `FastAPI` `Computer Vision` `Evidence Fusion` `Geolocation`
+
+---
+
+### 🗺️ Indoor Navigation System
+
+A campus-focused indoor navigation system using **floor maps, graph algorithms and shortest-path navigation**.
+
+**Focus:**
+`Flutter` `Dijkstra` `Graph Algorithms` `Maps` `Location`
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashtekareshaan21-cell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashtekareshaan21-cell&layout=compact&theme=tokyonight&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashtekareshaan21-cell&theme=tokyonight" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashtekareshaan21-cell&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🧰 Languages & Tools
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
+</p>
+
+### 📱 App Development
+
+<p>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45"/>
+</p>
+
+### 🗄️ Database & Design
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-icon.svg" width="45"/>
+</p>
+
+---
+
+# 🧠 Currently Learning
+
+```text
+Location-Based Algorithms
+        ↓
+Graph Algorithms
+        ↓
+Shortest Path Algorithms
+        ↓
+Maps & Geospatial Systems
+        ↓
+Building Real-World Applications
+```
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ashtekareshaan21-cell&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+# 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/eshaan-ashtekar">
+<img src="https://img.shields.io/badge/LinkedIn-Eshaan%20Ashtekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.leetcode.com/ashtekar-eshaan">
+<img src="https://img.shields.io/badge/LeetCode-Ashtekar%20Eshaan-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:ashtekareshaan21@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-ashtekareshaan21-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Build. Learn. Solve. Repeat.
+
+*Exploring technology by turning real-world problems into software.*
+
+</div>
