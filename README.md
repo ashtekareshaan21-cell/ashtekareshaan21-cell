@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Ashtekar Eshaan
+# Hi 👋, I'm  Eshaan Ashtekar
 
 ### Computer Engineering Student • Web Developer • Problem Solver
 
