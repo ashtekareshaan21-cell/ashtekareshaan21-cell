@@ -44,7 +44,7 @@ A platform designed to connect **food donors, NGOs and volunteers** to improve t
 **Focus:**
 `Food Redistribution` `NGO Management` `Maps` `Location Services` `Web Development`
 
-🔗 **Live Project:** [final-food-ops.vercel.app](https://foodops.live)
+🔗 **Live Project:** [FoodOPS](https://foodops.live)
 
 ---
 
