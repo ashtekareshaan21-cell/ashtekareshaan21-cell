@@ -26,7 +26,7 @@ Building practical software around **web development, location-based systems, di
 
 ## 👨‍💻 About Me
 
-* 🔭 Currently working on **[FoodOPS](https://final-food-ops.vercel.app/)**
+* 🔭 Currently working on **[FoodOPS](https://foodops.live)**
 * 🌱 Currently learning **Location-Based Algorithms & DSA**
 * 🧠 Interested in **Web Development, Algorithms, Maps & Real-World Applications**
 * 🛠️ Building projects that combine **software + problem solving**
